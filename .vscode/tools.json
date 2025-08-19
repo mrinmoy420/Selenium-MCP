@@ -1,0 +1,27 @@
+{
+    "tools": {
+        "mcp_seleniumlibra_open_browser": true,
+        "mcp_seleniumlibra_click_element": true,
+        "mcp_seleniumlibra_input_text": true,
+        "mcp_seleniumlibra_page_should_contain_element": true,
+        "mcp_seleniumlibra_wait_until_element_is_visible": true,
+        "mcp_seleniumlibra_select_from_list_by_value": true,
+        "mcp_seleniumlibra_select_checkbox": true,
+        "mcp_seleniumlibra_select_radio_button": true,
+        "mcp_seleniumlibra_alert_should_be_present": true,
+        "mcp_seleniumlibra_switch_window": true,
+        "mcp_seleniumlibra_close_browser": true,
+        "mcp_seleniumlibra_element_should_be_visible": true,
+        "mcp_seleniumlibra_element_should_contain": true,
+        "mcp_seleniumlibra_page_should_contain": true,
+        "mcp_seleniumlibra_title_should_be": true,
+        "mcp_seleniumlibra_execute_javascript": true,
+        "mcp_seleniumlibra_capture_page_screenshot": true,
+        "mcp_seleniumlibra_Get_WebElement": true,
+        "mcp_seleniumlibra_wait_until_page_contains": true,
+        "mcp_seleniumlibra_wait_until_element_contains": true,
+        "mcp_seleniumlibra_wait_for_condition": true,
+        "mcp_seleniumlibra_set_selenium_timeout": true
+    },
+    "maxTools": 128
+}
