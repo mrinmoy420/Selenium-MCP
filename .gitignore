@@ -1,0 +1,16 @@
+# Robot Framework output files
+log.html
+output.xml
+report.html
+selenium-screenshot-*.png
+geckodriver*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/

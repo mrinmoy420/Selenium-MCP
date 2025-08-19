@@ -1,0 +1,15 @@
+{
+  "servers": {
+    "SeleniumLibrary": {
+      "type": "stdio",
+      "command": "uv",
+      "args": [
+        "--directory",
+        "C:/selenium-mcp",
+        "run",
+        "python",
+        "server.py"
+      ]
+    }
+  }
+}
